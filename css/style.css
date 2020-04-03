@@ -1,0 +1,77 @@
+
+body{
+    width: 100vw;
+    background-color:rgb(190, 224, 221);
+}
+header{
+    width:100vw;
+    height:50px;
+    background-color:#2851A3;
+    text-align: center;
+}
+header span{
+    color: white;
+    font-size:30px;
+    line-height:50px;
+}
+#rest{
+    height: 88%;
+    width: 100vw;
+}
+#rest #logo-div{
+    height: 60%;
+    width: 100%;
+    text-align: center;
+}
+#logo{
+    width:50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:15%;
+}
+#parg{
+    width:70%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+#data-div{
+    text-align: center;
+}
+input{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    height:30px;
+}
+
+#butt{
+    background-color: #0099ff;
+    color:black ;
+    width: 50%;
+    height: 30px;
+}
+#button-div{
+    margin-top:20px;
+    width: 100%;
+    text-align: center;
+}
+#img-power{
+    width:100vw;
+    height: auto;
+}
+#new{
+    background-image: url("../images/back.jpg");
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+#p-power{
+    color: red;
+    font-size: 40px;
+    display: block;
+    line-height:100px;
+}
